@@ -28,7 +28,9 @@ The notebook demonstrates my skills in data cleaning, preprocessing, visualizati
 ### ✅ Data Cleaning
 - Checked missing values and duplicates
 - Converted columns into correct formats
-- Cleaned duration and date fields
+- Cleaned duration and date field
+- split genres into a list and then explode our dataframe to have only one
+genre per row for each movie
 
 ### ✅ Exploratory Analysis
 - Year-wise trends in Netflix movies
@@ -46,7 +48,8 @@ The notebook demonstrates my skills in data cleaning, preprocessing, visualizati
 
 ## 📂 Files in this Repository
 - `Netflix Movies Analysis.ipynb` → Complete analysis notebook  
-- `README.md` → Project documentation  
+- `README.md` → Project documentation
+- `Dataset` →  CSV dataset used for the Netflix Movies EDA project.
 
 ---
 
